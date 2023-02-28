@@ -1,3 +1,2 @@
-# 👋
-###### evanlin416@gmail.com
+######👋 evanlin416@gmail.com
 
